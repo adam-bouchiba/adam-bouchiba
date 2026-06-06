@@ -2,76 +2,78 @@
 
 # ⚡ ADAM BOUCHIBAM
 
-### CYBERSECURITY DIVISION
+### CYBERSECURITY • ENGINEERING • SYSTEMS
 
 ```txt
 SYSTEM STATUS : ONLINE
-MISSION       : SAN FRANCISCO 2027
-MODE          : BUILDING
+BUILD MODE    : ACTIVE
+THREAT LEVEL  : UNKNOWN
 ```
 
-*"Building systems. Breaking systems. Understanding systems."*
+*"The more you understand a system, the harder it becomes to deceive you."*
 
 </div>
 
 ---
 
-# 🖥️ SYSTEM OVERVIEW
+# 🖥️ PROFILE
 
 ```yaml
 Name: Adam Bouchibam
 
-Role: Cybersecurity Engineer in Progress
+Field:
+  Cybersecurity
+  Software Engineering
+  Network Security
 
-Location: France
+Focus:
+  Building tools
+  Analyzing systems
+  Solving problems
 
-Current Objective:
-  Secure a 6-month Cybersecurity Internship in San Francisco
-
-Long-Term Objective:
-  Become a World-Class Security Engineer
-
-Status:
-  Operational
+Current Status:
+  Learning
+  Building
+  Improving
 ```
 
 ---
 
 # 🚀 ACTIVE PROJECTS
 
-## PROJECT_001 : NETWORK SCANNER
+## NETWORK SCANNER
 
 ```txt
 STATUS      : IN DEVELOPMENT
+TYPE        : RECONNAISSANCE TOOL
 LANGUAGE    : PYTHON
-OBJECTIVE   : Discover and identify active hosts on a network
 ```
 
 ---
 
-## PROJECT_002 : PORT SCANNER
+## PORT SCANNER
 
 ```txt
 STATUS      : PLANNED
+TYPE        : NETWORK ANALYSIS TOOL
 LANGUAGE    : PYTHON
-OBJECTIVE   : Detect open ports and exposed services
 ```
 
 ---
 
-## PROJECT_003 : PACKET ANALYZER
+## PACKET ANALYZER
 
 ```txt
 STATUS      : PLANNED
+TYPE        : TRAFFIC INSPECTION TOOL
 LANGUAGE    : PYTHON
-OBJECTIVE   : Capture and inspect network traffic
 ```
 
 ---
 
-# 🧠 KNOWLEDGE DATABASE
+# ⚙️ TECH STACK
 
-## Languages
+## LANGUAGES
 
 ```txt
 Python
@@ -82,91 +84,88 @@ HTML
 CSS
 ```
 
-## Technologies
+## ENVIRONMENT
 
 ```txt
 Linux
 Git
 GitHub
+Docker
+Virtual Machines
+```
+
+## SECURITY
+
+```txt
 Networking
 Wireshark
 Nmap
 Burp Suite
-Docker
+CTFs
 ```
 
 ---
 
-# 🎯 CURRENT ROADMAP
+# 📈 DEVELOPMENT STATUS
 
 ```txt
-[✓] Linux Fundamentals
-[✓] Python Fundamentals
-[✓] Networking Basics
+PYTHON                ████████░░ 80%
+
+NETWORKING            ██████░░░░ 60%
+
+LINUX                 ███████░░░ 70%
+
+CYBERSECURITY         █████░░░░░ 50%
+```
+
+---
+
+# 🧠 CURRENT OBJECTIVES
+
+```txt
+[✓] Learn Linux Fundamentals
+
+[✓] Learn Python Fundamentals
 
 [▣] Build Network Scanner
+
 [ ] Build Port Scanner
+
 [ ] Build Packet Analyzer
-[ ] Complete CTF Challenges
-[ ] Security Certifications
-[ ] Active Directory Lab
-[ ] Cloud Security
+
+[ ] Complete Advanced CTF Challenges
+
+[ ] Build Security Lab
+
+[ ] Earn Security Certifications
 ```
 
 ---
 
-# 📊 MISSION PROGRESS
+# 🔥 PRINCIPLES
 
 ```txt
-CYBERSECURITY PROJECTS     ███░░░░░░░ 30%
+Question everything.
 
-CTF CHALLENGES            ██░░░░░░░░ 20%
+Trust nothing.
 
-CERTIFICATIONS            ░░░░░░░░░░ 0%
-
-SAN FRANCISCO OBJECTIVE   ███░░░░░░░ 30%
+Verify everything.
 ```
 
 ---
 
-# ⚙️ DAILY PROTOCOL
-
-```txt
-1. Learn
-2. Build
-3. Test
-4. Break
-5. Improve
-
-Repeat.
-```
-
----
-
-# 🔥 PHILOSOPHY
-
-```txt
-Discipline over motivation.
-
-Systems over goals.
-
-Execution over intentions.
-```
-
----
-
-<div align="center">
-
-## TERMINAL
+# TERMINAL
 
 ```bash
 $ whoami
 
 Adam Bouchibam
 
-Cybersecurity Engineer in Progress
+Cybersecurity Student
+Builder
+Engineer
 
-Target --> San Francisco
+System Status: ONLINE
 ```
 
 </div>
