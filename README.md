@@ -1,4 +1,4 @@
-````markdown
+
 <!--
   ═══════════════════════════════════════════════
   ADAM "COBALT" BOUCHIBA — GitHub Profile
