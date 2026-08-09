@@ -45,13 +45,13 @@
 
 ## ⬡ ACTIVE BUILDS
 
-**Network Scanner**   `[ COMPLETE ]`
+**- Network Scanner**   `[ COMPLETE ]`
 Custom TCP/UDP network scanning tool.
 
-**Voice Trigger**   `[ COMPLETE ]`
+**- Voice Trigger**   `[ COMPLETE ]`
 Custom voice detector tool to launch my work mode.
 
-**Windows Security Auditor**   `[ IN PROGRESS ]`
+**- Windows Security Auditor**   `[ IN PROGRESS ]`
 Auditing tool for Windows security configuration and hardening checks.
 
 **IN THE HANGAR**
