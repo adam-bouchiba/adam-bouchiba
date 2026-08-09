@@ -45,11 +45,13 @@
 
 ## ⬡ ACTIVE BUILDS
 
-**MARK I — Network Scanner**   `[ COMPLETE ]`
+**Network Scanner**   `[ COMPLETE ]`
 Custom TCP/UDP network scanning tool.
-🔗 [github.com/adam-bouchiba/Network-Scanner](https://github.com/adam-bouchiba/Network-Scanner)
 
-**MARK II — Windows Security Auditor**   `[ IN PROGRESS ]`
+**Voice Trigger**   `[ COMPLETE ]`
+Custom voice detector tool to launch my work mode.
+
+**Windows Security Auditor**   `[ IN PROGRESS ]`
 Auditing tool for Windows security configuration and hardening checks.
 
 **IN THE HANGAR**
