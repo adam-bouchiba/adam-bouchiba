@@ -71,6 +71,4 @@
 
 <br/>
 
-<sub>SYSTEM STATUS: ONLINE · STANDING BY</sub>
-
 </div>
