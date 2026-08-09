@@ -62,7 +62,7 @@
 
 ## ⬡ MISSION LOG
 
-`2026` **FOUNDATION** — Portfolio, tooling, certifications, CTF competitions.
+`2026` **FOUNDATION** — Portfolio, tooling, certifications, CTF competitions.<br>
 `2027` **DEPLOYMENT** — San Francisco, six-month cybersecurity internship.
 
 <div align="center">
